@@ -1,3 +1,3 @@
 # hello-world
 First Repository 
-Hi, I'm Jenaye. Your typical Panda loving, programming, piano playing teen.
+Hi, I'm Jenaye. I love summer, the color red, and pandas.
